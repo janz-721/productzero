@@ -204,14 +204,10 @@ npm run test:evidence
 
 ## 文档导航
 
-- [项目当前状态](docs/PROJECT_STATUS.md)
-- [下一步计划](docs/NEXT_STEPS.md)
 - [关键决策记录](docs/DECISIONS.md)
 - [用户试用记录](docs/USER_RESEARCH.md)
 - [项目案例](docs/CASE_STUDY.md)
-- [简历与面试表达](docs/RESUME_BULLETS.md)
 - [产品说明](docs/product-brief.md)
-- [新对话开场提示](docs/NEW_THREAD_PROMPT.md)
 - [Agent 接手规则](AGENTS.md)
 
 ---

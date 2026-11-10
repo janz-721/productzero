@@ -208,8 +208,5 @@ npm run test:evidence
 - [用户试用记录](docs/USER_RESEARCH.md)
 - [项目案例](docs/CASE_STUDY.md)
 - [产品说明](docs/product-brief.md)
-- [Agent 接手规则](AGENTS.md)
-
----
 
 文档更新：2026-11-10
